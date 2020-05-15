@@ -1,0 +1,3 @@
+[submodule "lib/GiNaC"]
+	path = lib/GiNaC
+	url = https://github.com/AlexeiSheplyakov/GiNaC.git
